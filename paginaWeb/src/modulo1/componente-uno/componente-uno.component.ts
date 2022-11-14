@@ -17,4 +17,6 @@ export class ComponenteUnoComponent implements OnInit {
     this.router.navigate(['web2'])
   }
 
+  
+
 }
